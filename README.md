@@ -15,6 +15,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Carlos%20Ulloa-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-ulloa-campos-34815a248)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Jcstrack-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jcstrack)
-
 [![Ubicación](https://img.shields.io/badge/Ubicación-Peñalolén%2C%20Chile-green?style=for-the-badge&logo=googlemaps&logoColor=white)]()
