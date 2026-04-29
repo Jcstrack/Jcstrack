@@ -1,4 +1,4 @@
-## 👋 Hi there
+### 👋 Hola, soy Juan Carlos
 
 :computer: **Ingeniero en Informática | Desarrollador Web (Frontend) & Unity**  
 :pencil: **Construyendo soluciones reales: plataformas web, e-commerce, SPA y sistemas personalizados**  
