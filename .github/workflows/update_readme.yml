@@ -1,0 +1,18 @@
+name: Update README  # Nombre del workflow (lo verás en la pestaña Actions de GitHub)
+
+on:
+  schedule:
+    - cron: "*/12 * * * *"  # Ejecuta el workflow automáticamente cada 12 minutos
+  workflow_dispatch:        # Permite ejecutarlo manualmente desde GitHub (botón "Run workflow")
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # Define el sistema operativo donde se ejecutará (máquina virtual de Ubuntu)
+    name: Update Profile README  # Nombre del job
+
+    steps:
+      - uses: actions/checkout@v2.3.4  # Descarga el repositorio para poder trabajar con sus archivos
+
+      - uses: Readme-Workflows/recent-activity@v2.4.1  # Acción que obtiene tu actividad reciente de GitHub
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token de autenticación para acceder a la API de GitHub
