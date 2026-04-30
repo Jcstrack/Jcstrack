@@ -1,21 +1,21 @@
-name: Update README  # Nombre del workflow
+name: Update README  # Nombre del workflow (así aparecerá en la pestaña Actions de GitHub)
 
-on:
-  schedule:
-    - cron: "*/12 * * * *"  # Cada 12 minutos
-  workflow_dispatch:        # Permite ejecutarlo manualmente
+on:  # Define cuándo se ejecuta el workflow
+  schedule:  # Ejecución automática por tiempo (cron)
+    - cron: "*/12 * * * *"  # Se ejecuta cada 12 minutos
+  workflow_dispatch:  # Permite ejecutar el workflow manualmente desde GitHub
 
-permissions:
-  contents: write  # Permite que la Action haga commit/push al README
+permissions:  # Define los permisos del workflow
+  contents: write  # Permite modificar archivos del repositorio (necesario para hacer commit/push)
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update Profile README
+jobs:  # Define los trabajos (tasks) que se ejecutarán
+  build:  # Nombre del job (puede ser cualquiera)
+    runs-on: ubuntu-latest  # Usa una máquina virtual con Ubuntu (runner de GitHub)
+    name: Update Profile README  # Nombre visible del job
 
-    steps:
-      - uses: actions/checkout@v2.3.4
+    steps:  # Lista de pasos que se ejecutarán en orden
+      - uses: actions/checkout@v2.3.4  # Clona el repositorio dentro del runner para poder trabajar con los archivos
 
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: jamesgeorge007/github-activity-readme@master  # Action que obtiene tu actividad reciente y la escribe en el README
+        env:  # Variables de entorno que usa la Action
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token automático de GitHub para autenticar y permitir hacer commit/push
