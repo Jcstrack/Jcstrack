@@ -21,9 +21,8 @@
 
 ### 📚 Estoy aprendiendo...
 
-:snake: **Python**  
-:robot: **Inteligencia Artificial**  
-:bar_chart: **Data Science**   
+:bar_chart: **Data Science**  
+:video_game: **Desarrollo de Videojuegos en Unity (C#)**  
 :gear: **DevOps**
 
 ---
