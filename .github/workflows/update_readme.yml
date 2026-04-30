@@ -13,6 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2.3.4  # Descarga el repositorio para poder trabajar con sus archivos
 
-      - uses: Readme-Workflows/recent-activity@v2.4.1  # Acción que obtiene tu actividad reciente de GitHub
+      - uses: jamesgeorge007/github-activity-readme@master  # Acción que actualiza la actividad reciente
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token de autenticación para acceder a la API de GitHub
