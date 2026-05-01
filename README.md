@@ -29,9 +29,9 @@
 
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Jcstrack/Jcstrack/pull/3) in [Jcstrack/Jcstrack](https://github.com/Jcstrack/Jcstrack)
-2. 💪 Opened PR [#3](https://github.com/Jcstrack/Jcstrack/pull/3) in [Jcstrack/Jcstrack](https://github.com/Jcstrack/Jcstrack)
-3. 🎉 Merged PR [#2](https://github.com/Jcstrack/Jcstrack/pull/2) in [Jcstrack/Jcstrack](https://github.com/Jcstrack/Jcstrack)
-4. 💪 Opened PR [#2](https://github.com/Jcstrack/Jcstrack/pull/2) in [Jcstrack/Jcstrack](https://github.com/Jcstrack/Jcstrack)
-5. 🎉 Merged PR [#1](https://github.com/Jcstrack/Jcstrack/pull/1) in [Jcstrack/Jcstrack](https://github.com/Jcstrack/Jcstrack)
+1. 🎉 Merged PR [#3](https://github.com/Jcstrack/miCuartoRepo/pull/3) in [Jcstrack/miCuartoRepo](https://github.com/Jcstrack/miCuartoRepo)
+2. 💪 Opened PR [#3](https://github.com/Jcstrack/miCuartoRepo/pull/3) in [Jcstrack/miCuartoRepo](https://github.com/Jcstrack/miCuartoRepo)
+3. 🎉 Merged PR [#2](https://github.com/Jcstrack/miCuartoRepo/pull/2) in [Jcstrack/miCuartoRepo](https://github.com/Jcstrack/miCuartoRepo)
+4. 💪 Opened PR [#2](https://github.com/Jcstrack/miCuartoRepo/pull/2) in [Jcstrack/miCuartoRepo](https://github.com/Jcstrack/miCuartoRepo)
+5. 🎉 Merged PR [#1](https://github.com/Jcstrack/miCuartoRepo/pull/1) in [Jcstrack/miCuartoRepo](https://github.com/Jcstrack/miCuartoRepo)
 <!--END_SECTION:activity-->
