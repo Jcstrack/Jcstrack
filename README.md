@@ -30,8 +30,8 @@
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
 1. 🚀 Published release [V0.1.0](https://github.com/Jcstrack/quintoRepo/releases/tag/V0.1.0) in [Jcstrack/quintoRepo](https://github.com/Jcstrack/quintoRepo)
-2. 🎉 Merged PR [#3](https://github.com/Jcstrack/miCuartoRepo/pull/3) in [Jcstrack/miCuartoRepo](https://github.com/Jcstrack/miCuartoRepo)
-3. 💪 Opened PR [#3](https://github.com/Jcstrack/miCuartoRepo/pull/3) in [Jcstrack/miCuartoRepo](https://github.com/Jcstrack/miCuartoRepo)
-4. 🎉 Merged PR [#2](https://github.com/Jcstrack/miCuartoRepo/pull/2) in [Jcstrack/miCuartoRepo](https://github.com/Jcstrack/miCuartoRepo)
-5. 💪 Opened PR [#2](https://github.com/Jcstrack/miCuartoRepo/pull/2) in [Jcstrack/miCuartoRepo](https://github.com/Jcstrack/miCuartoRepo)
+2. 🎉 Merged PR [#3](https://github.com/Jcstrack/Jcstrack/pull/3) in [Jcstrack/Jcstrack](https://github.com/Jcstrack/Jcstrack)
+3. 💪 Opened PR [#3](https://github.com/Jcstrack/Jcstrack/pull/3) in [Jcstrack/Jcstrack](https://github.com/Jcstrack/Jcstrack)
+4. 🎉 Merged PR [#2](https://github.com/Jcstrack/Jcstrack/pull/2) in [Jcstrack/Jcstrack](https://github.com/Jcstrack/Jcstrack)
+5. 💪 Opened PR [#2](https://github.com/Jcstrack/Jcstrack/pull/2) in [Jcstrack/Jcstrack](https://github.com/Jcstrack/Jcstrack)
 <!--END_SECTION:activity-->
