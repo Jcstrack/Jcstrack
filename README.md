@@ -29,8 +29,8 @@
 
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V0.1.0](https://github.com/Jcstrack/quintoRepo/releases/tag/V0.1.0) in [Jcstrack/quintoRepo](https://github.com/Jcstrack/quintoRepo)
-2. 🎉 Merged PR [#3](https://github.com/Jcstrack/Jcstrack/pull/3) in [Jcstrack/Jcstrack](https://github.com/Jcstrack/Jcstrack)
+1. 🎉 Merged PR [#1](https://github.com/Jcstrack/Portfolio/pull/1) in [Jcstrack/Portfolio](https://github.com/Jcstrack/Portfolio)
+2. 💪 Opened PR [#1](https://github.com/Jcstrack/Portfolio/pull/1) in [Jcstrack/Portfolio](https://github.com/Jcstrack/Portfolio)
 3. 💪 Opened PR [#3](https://github.com/Jcstrack/Jcstrack/pull/3) in [Jcstrack/Jcstrack](https://github.com/Jcstrack/Jcstrack)
 4. 🎉 Merged PR [#2](https://github.com/Jcstrack/Jcstrack/pull/2) in [Jcstrack/Jcstrack](https://github.com/Jcstrack/Jcstrack)
 5. 💪 Opened PR [#2](https://github.com/Jcstrack/Jcstrack/pull/2) in [Jcstrack/Jcstrack](https://github.com/Jcstrack/Jcstrack)
