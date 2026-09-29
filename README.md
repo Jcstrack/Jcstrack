@@ -1,6 +1,6 @@
 ### 👋 Hola, soy Juan Carlos Ulloa Campos
 
-:computer: **Ingeniero en Informática | Desarrollador Web Frontend & Unity Developer**  
+:computer: **Ingeniero en Informática | Desarrollador Web FullStack & Unity Developer**  
 :pencil: **Construyendo soluciones reales: plataformas web, e-commerce, SPA, sistemas personalizados y videojuegos**  
 :gear: **Stack principal: React.js, Next.js, WordPress, PHP, Elementor, WooCommerce, JavaScript/TypeScript, Node.js, MySQL y Unity (C#)**  
 :rocket: **Experiencia aplicando desarrollo en proyectos freelance, soluciones productivas y entornos reales**  
